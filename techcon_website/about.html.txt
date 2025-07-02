@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About TechCon 2024</title>
+</head>
+<body>
+    <header>
+        <h1>About TechCon 2024</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="schedule.html">Schedule</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Our History</h2>
+            <img src="images/techcon-history.jpg" alt="Group photo from the first TechCon in 2010" width="600">
+            <p>Founded in 2010, TechCon began as a small gathering of 200 tech enthusiasts in a university auditorium. Over the past 14 years, we've grown into one of the world's premier technology conferences, hosting over 10,000 attendees annually. Our journey reflects the evolution of the tech industry itself, from early discussions about cloud computing to today's focus on AI and quantum computing.</p>
+            <p>Each year, we've expanded our horizons while maintaining the collaborative spirit that marked our beginnings. TechCon 2024 marks our 15th anniversary celebration, where we'll honor our roots while exploring the future.</p>
+        </article>
+
+        <article>
+            <h2>Our Mission</h2>
+            <img src="images/techcon-mission.png" alt="TechCon mission statement graphic" width="600">
+            <p>TechCon exists to bridge the gap between emerging technologies and practical implementation. Our three core principles:</p>
+            <ul>
+                <li><strong>Educate:</strong> Provide cutting-edge knowledge from industry leaders</li>
+                <li><strong>Connect:</strong> Create networking opportunities across disciplines</li>
+                <li><strong>Inspire:</strong> Showcase innovations that shape our future</li>
+            </ul>
+            <p>We believe technology should be accessible, ethical, and transformative. TechCon 2024 continues this tradition with our most diverse speaker lineup yet.</p>
+        </article>
+
+        <article>
+            <h2>Past Notable Speakers</h2>
+            <div class="speaker">
+                <img src="images/speaker1.jpg" alt="Dr. Sarah Chen, AI Researcher" width="200">
+                <h3>Dr. Sarah Chen (2023)</h3>
+                <p>Pioneer in ethical AI frameworks, currently leading research at MIT's AI Lab. Her 2023 keynote on responsible AI development was voted most impactful presentation.</p>
+            </div>
+            <div class="speaker">
+                <img src="images/speaker2.jpg" alt="Mark Williams, Cybersecurity Expert" width="200">
+                <h3>Mark Williams (2022)</h3>
+                <p>Former White House cybersecurity advisor who presented groundbreaking work on quantum encryption that's now industry standard.</p>
+            </div>
+            <div class="speaker">
+                <img src="images/speaker3.jpg" alt="Priya Patel, Green Tech Innovator" width="200">
+                <h3>Priya Patel (2021)</h3>
+                <p>CEO of SolTech, whose sustainable data center designs have reduced industry energy consumption by 30%.</p>
+            </div>
+        </article>
+    </main>
+
+    <footer>
+        <p>copyright © 2024 TechCon. All rights reserved.</p>
+    </footer>
+</body>
+</html>
